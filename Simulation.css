@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+
+canvas {
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    border: 0.5vmin solid black;
+    background: rgb(0, 0, 0);
+}
